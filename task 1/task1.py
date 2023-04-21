@@ -1,5 +1,3 @@
-
-
 with open('Calc1.stk', "r") as arquivo:
     pilha = []
 
